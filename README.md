@@ -3,6 +3,8 @@
 [![Ghidra](https://img.shields.io/badge/Ghidra-11.x%20%7C%2012.x-blue)](https://ghidra-sre.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+Guides for this plugin: https://github.com/keyhana/c166-ghidra-module
+
 Repository containing language specifications, Java scripts, and step-by-step guides for importing, mapping, and analyzing **ST10F276E / ST10F275E (C166 architecture)** ECU firmware in Ghidra.
 
 
